@@ -1,0 +1,100 @@
+h2 {
+  color: black;
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.1rem;
+  text-shadow: 0 0.1rem 0.1rem rgba(0, 0, 0, 0.1);
+}
+
+.upload {
+  display: flex;
+  position: absolute;
+  top: 34%;
+  right: 40%;
+  gap: 2rem;
+  padding: 2rem;
+  background-color: #fff;
+  margin-left: 25px;
+  margin-right: 25px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 200px;
+}
+
+.files {
+  margin-left: 20px;
+  background-color: white;
+  width: 400px;
+  height: 400px;
+}
+
+h5 {
+  color: black;
+  font-size: 1em;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+.total {
+  position: absolute;
+  top: 90%;
+  right: 85%;
+  margin-left: 20px;
+  font-weight: bolder;
+  width: 200px;
+}
+
+.total2 {
+  position: absolute;
+  top: 93%;
+  right: 85%;
+  margin-left: 20px;
+  font-weight: bolder;
+  width: 200px;
+}
+
+.save {
+  width: 200px;
+  position: relative;
+  bottom: 0;
+}
+
+h3 {
+  color: black;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.1rem;
+  text-shadow: 0 0.1rem 0.1rem rgba(0, 0, 0, 0.1);
+}
+
+.add {
+  position: absolute;
+  top: 70%;
+  right: 40%;
+}
+
+.addbutton {
+  position: relative;
+  bottom: 0;
+  width: 200px;
+}

@@ -1,0 +1,41 @@
+html {
+  background-color: tan;
+}
+
+.header {
+  flex: auto;
+  flex-direction: column;
+  gap: 10rem;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  gap: 2rem;
+  padding: 2rem;
+  background-color: #fff;
+  margin-left: 25px;
+  margin-right: 25px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 300px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.element {
+  color: black;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.1rem;
+  text-shadow: 0 0.1rem 0.1rem rgba(0, 0, 0, 0.1);
+}
